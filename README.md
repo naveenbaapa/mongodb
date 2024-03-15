@@ -36,6 +36,8 @@ Then save the data source
 
 Import the dashboard in `examples\RPI MongoDB - Atlas.json`
 
+
+
 This should show a graph of light sensor values from a Raspberry PI with an [EnviroPHAT](https://thepihut.com/products/enviro-phat) board feeding readings every minute into a MongoDB Atlas database.
 
 <img src="src/img/sample_dashboard.png" alt="Sample Dashboard" style="width: 800px;"/>
